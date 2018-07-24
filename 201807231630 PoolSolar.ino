@@ -1,4 +1,5 @@
 /*
+************************************************** Test 20180723 17:40 **************************
  * Project Pool Solar Controller
  * Description:
  * Measures 3 data points from 8 swimming pool solar heating panels (direct 
